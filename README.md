@@ -82,8 +82,8 @@ Each new file introduces a new analytical perspective.
 
 ```
 excel-data-analysis/
-    ├── Project1.xlsx
-    ├── Project2.xlsx
+    ├── Sales_Representative_Project.xlsx
+    ├── Sales_Analysis_Project.xlsx
     ├── ... (more projects will be added)
     └── README.md
 ```
