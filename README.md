@@ -84,6 +84,8 @@ Each new file introduces a new analytical perspective.
 excel-data-analysis/
     ├── Sales_Representative_Project.xlsx
     ├── Sales_Analysis_Project.xlsx
+    ├── Sale_Performance_Table.xlsm
+    ├── Stock_Control.xlsm
     ├── ... (more projects will be added)
     └── README.md
 ```
