@@ -87,6 +87,7 @@ excel-data-analysis/
     ├── Sale_Performance_Table.xlsm
     ├── Stock_Control.xlsm
     ├── Purchasing_Management_Panel.xlsx
+    ├── Sales_Tracking
     ├── ... (more projects will be added)
     └── README.md
 ```
